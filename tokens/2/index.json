@@ -1,5 +1,8 @@
 {
-  "name": "Certificado de Front-end 2",
-  "description": "Certificado por haber concluído exitosamente el curso de Front-end 2",
-  "student": "Angelo Segura"
+  "name": "Certificado de UX",
+  "description": "Certificado por haber concluído exitosamente el curso de UX",
+  "student": "Angelo Segura",
+  "course": "UX",
+  "nota": 18,
+  "image_url": "https://angelop11.github.io/test-certs/cert-ux.png"
 }
