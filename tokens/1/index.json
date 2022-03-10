@@ -1,5 +1,7 @@
 {
   "name": "Certificado de Front-end",
   "description": "Certificado por haber concluído exitosamente el curso de Front-end",
-  "student": "Angelo Segura"
+  "student": "Angelo Segura",
+  "course": "Front-end",
+  "nota": 10
 }
