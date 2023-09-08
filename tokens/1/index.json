@@ -1,8 +1,8 @@
 {
-  "name": "Certificado de Front-end",
-  "description": "Certificado por haber concluído exitosamente el curso de Front-end updated",
+  "name": "Certificado de Product Manager",
+  "description": "Certificado por haber concluído exitosamente el curso de Product Manager",
   "student": "Angelo Segura",
-  "course": "Front-end",
-  "nota": 11,
-  "image_url": "https://angelop11.github.io/test-certs/cert-ux.png"
+  "course": "Product Manager",
+  "nota": 10,
+  "image_url": "https://angelop11.github.io/test-certs/angelo-cert.png"
 }
